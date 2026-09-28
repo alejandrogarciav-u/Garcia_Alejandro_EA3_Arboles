@@ -13,7 +13,7 @@ public class ArbolInventario {
         raiz = insertarRecursivo(raiz, id, nombre);
     }
 
-    // Método recursivo para insertar un producto
+    // Método recursivo para insertar un producto según su ID
     private Producto insertarRecursivo(Producto actual, int id, String nombre) {
 
         // Si el espacio está vacío, se crea un nuevo nodo
