@@ -175,7 +175,7 @@ Video de sustentación
 
 Video individual de sustentación explicando el funcionamiento del Árbol Binario de Búsqueda, la lógica de los punteros y la recursividad.
 
-Enlace al video: PENDIENTE
+Enlace al video: (https://youtu.be/fpYPNKi1kls)
 
 Control de versiones
 
